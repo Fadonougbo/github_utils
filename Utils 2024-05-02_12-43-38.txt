@@ -1,0 +1,38 @@
+1:: HTML, CSS,scss,animate.style permet de faire des animations uniquement en css,font awoson,shadcn,handless ui, lucid icon,daysi ui,radix ui,shakra ui
+
+2::JS ,react js,sweet2js,flatpicker pour les calendrier,ajax,react router dom ,ky,debounce,throttle,lodash possède plein de fonction utile,react hook form,redux,json server,zod,vite bundler ,driver js, awosone js pour les recherches de librairie JavaScript, swiper js,htmx,reaact query, hybride lib pour faire des custom éléments ,ember carousel,clsx pour créer des classes dynamique , block note editor
+
+
+3::PHP,altorouter,faker,phpmailer,dompdf,valitron,respect validation lib , synfony var dumper,faire des API,psr 7 ,psr 11 injection de dépendance,phinx pour les migrations, psr 15 pour les middlewares,pest php,laravel , laravel news contient une liste de package utile,httpsoft.org permet d'utiliser les éléments du psr 7  , moonshine laravel pour les panels d'administrations
+
+4::lien utile
+
+#unsplash pour image,
+#jsonplaceholder   pour des fake api, 
+#color contrast permet de définir si une couleur est bon pour un site,
+#placekittent.com   permet d'avoir des images de chat gratuit,
+#pixabay permet d'avoir des images vidéos music libre de droits ,
+#rest countries est une api qui donne des informations sur les pays ,
+swapi est une api gratuit ,
+#iconscout permet d'avoir des icônes gratuit ,
+#svg repo pour avoir des svg gratuit 
+# app.haikei permet de gérer des svg 
+#patern generator permet de générer des images fun
+#real time color
+
+5::mysql,mysqlworkbench,postgreSql,mongoDb
+
+6:: git,github,regexp,JWT,dotenv, argon2 pour hasher un mot de pass
+
+7::node js,fastify, node toolbox pour avoir des packages utiles, moteur de template ejs,mongoose,fastify vite,volta pour l'installation de node sur ubuntu 
+
+fffuel.co
+compressor.io
+absurd.design
+https://illustrationkit.com
+https://superdesigner.co
+https://unicornicons.com/icons#
+haikei
+kraken.io
+apilayer
+imagekit
