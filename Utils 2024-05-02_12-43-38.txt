@@ -1,6 +1,6 @@
 1:: HTML, CSS,scss,animate.style permet de faire des animations uniquement en css,font awoson,shadcn,handless ui, lucid icon,daysi ui,radix ui,shakra ui
 
-2::JS ,react js,sweet2js,flatpicker pour les calendrier,ajax,react router dom ,ky,debounce,throttle,lodash possède plein de fonction utile,react hook form,redux,json server,zod,vite bundler ,driver js, awosone js pour les recherches de librairie JavaScript, swiper js,htmx,reaact query, hybride lib pour faire des custom éléments ,ember carousel,clsx pour créer des classes dynamique , block note editor
+2::JS ,react js,sweet2js,flatpicker pour les calendrier,ajax,react router dom ,ky,debounce,throttle,lodash possède plein de fonction utile,react hook form,redux,json server,zod,vite bundler ,driver js, awosone js pour les recherches de librairie JavaScript, swiper js,htmx,reaact query, hybride lib pour faire des custom éléments ,ember carousel,clsx pour créer des classes dynamique , block note editor ,wavesurfer js pour les audios
 
 
 3::PHP,altorouter,faker,phpmailer,dompdf,valitron,respect validation lib , synfony var dumper,faire des API,psr 7 ,psr 11 injection de dépendance,phinx pour les migrations, psr 15 pour les middlewares,pest php,laravel , laravel news contient une liste de package utile,httpsoft.org permet d'utiliser les éléments du psr 7  , moonshine laravel pour les panels d'administrations
