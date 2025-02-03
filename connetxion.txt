@@ -8,5 +8,5 @@ utiliser 192.168.43.61:8000 comme chemin des image (laravel)
 
 pour php utiliser 0.0.0.0 pour la conexion : php -S 0.0.0.0:8000
 
-redemarer apach si possible
+redemarrer apach si possible
 

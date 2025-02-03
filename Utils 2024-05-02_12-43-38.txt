@@ -1,7 +1,7 @@
 
 essai de creer des stack ex: stack laravel et tu  ajoute les differents package necessaire au projet
 ************************************************
-1:: HTML, CSS,scss,animate.style permet de faire des animations uniquement en css,font awoson,shadcn,handless ui, lucid icon,daysi ui,radix ui,shakra ui,flowbite pour les interfaces,tailwind flex,hyperui for tailwind
+1:: HTML, CSS,scss,animate.style permet de faire des animations uniquement en css,font awoson,shadcn,handless ui, lucid icon,daysi ui,radix ui,shakra ui,flowbite pour les interfaces,tailwind flex,hyperui for tailwind ,https://gradienty.codes/
 
 2::JS ,react js,sweet2js,flatpicker pour les calendrier,ajax,react router dom ,ky,debounce,throttle,lodash possède plein de fonction utile,react hook form,redux,json server,zod,vite bundler ,driver js, awosone js pour les recherches de librairie JavaScript, swiper js,htmx,react query, hybride lib pour faire des custom éléments ,ember carousel,clsx pour créer des classes dynamique , blockNote editor ,wavesurfer js pour les audios,react toastify , flicking pour les carousel , bestof js pour trouver des librairies en js , Quill wysywyg editor , daysi ui ,plate react rich editor , reveal js pour les présentation ,tippy js pour les tooltip,roosterjs editor, ark ui ,editor.js , https://pdfslick.dev/ pour les pdf ,swapy drag and drop,uiverse, react motion pour les animations, flowbite pour les components,sonner pour avoir les notification
 
@@ -45,11 +45,13 @@ kraken.io
 apilayer
 imagekit
 animated background
-ui ball
+ui ball pour les loader
 storyset
 lordicon
 magic ui
 https://drag-and-drop.formkit.com/
 formik tempo pour les dates
+
+
 
 dice bear pour les avatar
