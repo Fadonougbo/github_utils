@@ -23,7 +23,8 @@ swapi est une api gratuit ,
 #patern generator permet de générer des images fun
 #real time color
 # https://ui.jln.dev/
-https://devdojo.com/tailwindcss/buttons
+#https://devdojo.com/tailwindcss/buttons
+#iconnify permet d'avoir plusieur icon
 
 https://x10hosting.com/#create pour un hebergement gratuit
 
@@ -55,3 +56,7 @@ formik tempo pour les dates
 
 
 dice bear pour les avatar
+
+-----------------CMS---------------
+statamic
+craftcms
