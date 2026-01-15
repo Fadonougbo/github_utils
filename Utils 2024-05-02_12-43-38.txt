@@ -53,6 +53,7 @@ magic ui
 https://drag-and-drop.formkit.com/
 formik tempo pour les dates
 
+https://franken-ui.dev/docs/2.1/installation // des composants custom elements
 
 
 dice bear pour les avatar
@@ -60,3 +61,9 @@ dice bear pour les avatar
 -----------------CMS---------------
 statamic
 craftcms
+
+Linux-----------------------
+
+Yazi linux file explorer
+
+Lazygit
